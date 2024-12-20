@@ -23,10 +23,9 @@ class GoogleDriveDownloader:
 
 
 urls = [
-    'https://drive.google.com/file/d/1TBX7hLraMiiLucknM1mhblNVomO9-Y0r/view?usp=sharing',
-    'https://drive.google.com/file/d/1JmEsU0GYUD5iVdefMOZpeWa_iYnmK_7w/view?usp=sharing',
-    'https://drive.google.com/file/d/1g8tzzW5BNPzHXlamuMQOvdwlHRa-29Vp/view?usp=sharing',
-    'https://drive.google.com/file/d/1lq7ksWeD3FzaIwowRbe_BvCmSmOG12-f/view?usp=sharing'
+   'https://drive.google.com/file/d/1oiw861NGp4CKKFO3iuHGSCgTyQ-DXHW7/view?usp=sharing',
+    'https://drive.google.com/file/d/1mxL7kJPNUzJ6zoaqJyxF1Krnjo4F-eQG/view?usp=sharing',
+    'https://drive.google.com/file/d/1j9v9P7UdMJ0_FVWg8H95cqx4DMSsrdbH/view?usp=sharing'
 ]
 
 if __name__ == '__main__':
